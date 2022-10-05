@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body{
+    text-align:center;
+    background-color:chartreuse;
+}
+nav{
+    text-align: right;
+    display: block;
+    padding: 1 rem;
+    margin: auto;
+}
+header {
+    padding: 1rem;
+    background-color: #13a32d;
+    color: #fff;
+    
+}
