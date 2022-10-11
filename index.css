@@ -2,17 +2,57 @@
 
 body{
     text-align:center;
-    background-color:chartreuse;
+    background-color:rgb(172, 205, 241);
+}
+p{
+    text-align: center;
+    font-size:2rem;
 }
 nav{
     text-align: right;
     display: block;
     padding: 1 rem;
     margin: auto;
+    
 }
 header {
-    padding: 1rem;
-    background-color: #13a32d;
+     padding: 2rem; 
+    background-color: #f04526;
     color: #fff;
+    
+}
+
+label,input{
+    width:2 rem;
+    height:5vh;
+    border-color: rgb(246, 90, 63);
+  
+ }
+ #is-triangle-btn{
+     width: 10%;
+    height:5vh;
+ }
+a{
+    text-decoration:none;
+    color: black;
+    border-radius: 0.5rem;
+    border-color: black;
+    padding: 1rem;
+    background-color: bisque;
+}
+footer{
+    text-align: center;
+    padding: 1rem;
+     font-size:larger;
+    margin-top: 5rem;
+   
+}
+
+.link{
+    text-decoration: none;
+    color:black;
+    padding:0rem 1rem;
+    background-color: aqua;
+    border-radius:0.5rem;
     
 }
