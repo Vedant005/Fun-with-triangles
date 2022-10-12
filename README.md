@@ -7,7 +7,7 @@ A app that gives you knowledge about triangles
 3)JAVASCRIPT
 
 # APP LIVE LINK:
-https://cash-register-app01.netlify.app/
+https://funwithtriangles001.netlify.app/index.html
 # SCREENSHOT
 
 
