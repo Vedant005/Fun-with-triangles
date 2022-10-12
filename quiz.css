@@ -2,7 +2,7 @@
 
 body{
     text-align:center;
-    background-color:rgb(172, 205, 241);
+    background-color:rgb(39, 130, 227);
 }
 nav{
     text-align: right;
@@ -22,7 +22,7 @@ a{
     border-radius: 0.5rem;
     border-color: black;
     padding: 1rem;
-    background-color: bisque;
+    background-color: rgb(234, 131, 14);
 }
 
 footer{
@@ -30,14 +30,38 @@ footer{
     padding: 1rem;
      font-size:larger;
     margin-top: 5rem;
-   
+  
 }
 
-.link{
+.link1{
     text-decoration: none;
     color:black;
     padding:0rem 1rem;
-    background-color: aqua;
-    border-radius:0.5rem;
-    
+    /* background-color: aqua; */
+    display:block;
+    width: 10%;
+   
+    margin:auto;
+   
+    border-color: black;
+    /* background-color: aquamarine; */
+
 }
+
+
+.link2{
+    text-decoration: none;
+    color:black;
+    padding:0rem 1rem;
+    /* background-color: aqua; */
+    display:block;
+    width: 10%;
+
+
+    margin:auto;
+   
+    border-color: black;
+    background-color: aquamarine;
+
+}
+
